@@ -51,6 +51,9 @@ const Hero = () => {
             </div>
           </div>
 
+
+          
+
           <div className="flex justify-center lg:justify-end order-1 lg:order-2 mb-8 lg:mb-0">
             <div className="relative">
               <div className="w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-glow animate-scale-in">
